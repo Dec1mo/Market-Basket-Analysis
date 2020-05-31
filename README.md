@@ -7,5 +7,4 @@
 ### Python 3.6+
 ### [Efficient-Apriori](https://github.com/tommyod/Efficient-Apriori)
 
-## Dataset
-### You can find the dataset [here](https://www.kaggle.com/luckysan/market-basket)
+
